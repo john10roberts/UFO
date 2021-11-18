@@ -1,7 +1,7 @@
 # UFO
 UFO Analysis
 
-![(The Truth is Out There)](https://github.com/john10roberts/UFO/blob/main/TheTruthIsOutThere.png)
+![(The Truth is Out There)](https://john10roberts.github.io/UFO/)
 
  ## Overview of Project
 To create a web page that will allow users the ability to search through all the UFO sightings in a dataset. This page will provide users the ability to filter that dataset on multiple criteria at the same time specifically we will be adding the ability to filter not only on date but city, state, country, and shape. 
